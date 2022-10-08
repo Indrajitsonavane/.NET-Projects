@@ -1,0 +1,20 @@
+D:\Indrajit Sonavane\.NET assinment\Collage_mgt_system\Collage_mgt_system\bin\Debug\Collage_mgt_system.exe
+D:\Indrajit Sonavane\.NET assinment\Collage_mgt_system\Collage_mgt_system\bin\Debug\Collage_mgt_system.pdb
+D:\Indrajit Sonavane\.NET assinment\Collage_mgt_system\Collage_mgt_system\obj\x86\Debug\Collage_mgt_system.Add_Student_Details.resources
+D:\Indrajit Sonavane\.NET assinment\Collage_mgt_system\Collage_mgt_system\obj\x86\Debug\Collage_mgt_system.frm_login.resources
+D:\Indrajit Sonavane\.NET assinment\Collage_mgt_system\Collage_mgt_system\obj\x86\Debug\Collage_mgt_system.Properties.Resources.resources
+D:\Indrajit Sonavane\.NET assinment\Collage_mgt_system\Collage_mgt_system\obj\x86\Debug\Collage_mgt_system.View_student_Detils.resources
+D:\Indrajit Sonavane\.NET assinment\Collage_mgt_system\Collage_mgt_system\obj\x86\Debug\Collage_mgt_system.csproj.GenerateResource.Cache
+D:\Indrajit Sonavane\.NET assinment\Collage_mgt_system\Collage_mgt_system\obj\x86\Debug\Collage_mgt_system.exe
+D:\Indrajit Sonavane\.NET assinment\Collage_mgt_system\Collage_mgt_system\obj\x86\Debug\Collage_mgt_system.pdb
+F:\Indrajit Sonavane\C#\Collage_mgt_system\Collage_mgt_system\obj\x86\Debug\Collage_mgt_system.exe
+F:\Indrajit Sonavane\C#\Collage_mgt_system\Collage_mgt_system\obj\x86\Debug\Collage_mgt_system.pdb
+F:\Indrajit Sonavane\C#\Collage_mgt_system\Collage_mgt_system\obj\x86\Debug\Collage_mgt_system.Add_Student_Details.resources
+F:\Indrajit Sonavane\C#\Collage_mgt_system\Collage_mgt_system\obj\x86\Debug\Collage_mgt_system.frm_login.resources
+F:\Indrajit Sonavane\C#\Collage_mgt_system\Collage_mgt_system\obj\x86\Debug\Collage_mgt_system.Properties.Resources.resources
+F:\Indrajit Sonavane\C#\Collage_mgt_system\Collage_mgt_system\obj\x86\Debug\Collage_mgt_system.View_student_Detils.resources
+F:\Indrajit Sonavane\C#\Collage_mgt_system\Collage_mgt_system\obj\x86\Debug\Collage_mgt_system.csproj.GenerateResource.Cache
+F:\Indrajit Sonavane\C#\Collage_mgt_system\Collage_mgt_system\bin\Debug\Collage_mgt_system.exe.config
+F:\Indrajit Sonavane\C#\Collage_mgt_system\Collage_mgt_system\bin\Debug\Collage_mgt_system.exe
+F:\Indrajit Sonavane\C#\Collage_mgt_system\Collage_mgt_system\bin\Debug\Collage_mgt_system.pdb
+F:\Indrajit Sonavane\C#\Collage_mgt_system\Collage_mgt_system\obj\x86\Debug\Collage_mgt_system.csprojResolveAssemblyReference.cache
